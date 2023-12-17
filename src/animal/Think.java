@@ -1,5 +1,5 @@
 package animal;
 
-public interface think {
+public interface Think {
     void think();
 }
